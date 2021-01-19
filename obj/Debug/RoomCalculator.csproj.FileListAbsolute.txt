@@ -1,0 +1,6 @@
+C:\Users\17dor\Desktop\GC Slns\RoomCalculator\bin\Debug\RoomCalculator.exe.config
+C:\Users\17dor\Desktop\GC Slns\RoomCalculator\bin\Debug\RoomCalculator.exe
+C:\Users\17dor\Desktop\GC Slns\RoomCalculator\bin\Debug\RoomCalculator.pdb
+C:\Users\17dor\Desktop\GC Slns\RoomCalculator\obj\Debug\RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\17dor\Desktop\GC Slns\RoomCalculator\obj\Debug\RoomCalculator.exe
+C:\Users\17dor\Desktop\GC Slns\RoomCalculator\obj\Debug\RoomCalculator.pdb
